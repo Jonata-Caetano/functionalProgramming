@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Product {
 
 	private String name;
-	private Double price;
+	private double price;
 	
 	public Product() {
 		super();
